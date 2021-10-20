@@ -55,11 +55,25 @@ This is a documentation that is used for classifying the information created to 
                  a.Tittle.
                  b.Body.
                  c.Abstracts.  
-                               
+
 7.Sytem Guide Documentation.
-This is a documentation that conduct the purpose of studying a system or its parts in order to identify its objectives. It is a problem solving technique that improves the system and ensures that all the components of the system work efficiently to accomplish their purpose.
+This is a documentation that conduct the purpose of studying a system or its parts in order to identify its objectives. It is a problem solving technique that improves the system and ensures that all the components of the system work efficiently to accomplish their purpose.It is made up of the following components;
+                  
+                  a.Input.
+                  b.Output.
+                  c.process.
 
+8.Requirements documentation. 
+Typically created in the beginning of a software development project. Has the goal to clearly and precisely specify the expectations in regards to the software being created.It is made up of the following components;
+                
+                  a.Functional requirements.
+                  b.Limitations.
+                  c.Software requirements.
+                  d.Compatibility requirements.
 
+9.Architecture documentation.
+ Defines the high-level architecture of the software system being created. May describe the main components of the system, their roles and functions, as well as the data and control flow among those components.
 
+                  
+                  
 
-            
