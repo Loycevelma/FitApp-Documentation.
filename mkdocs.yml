@@ -9,4 +9,4 @@ markdown_extensions:
 theme:
   name: material
   nav_style: dark
-  favicon: img/favicon.ico
+
